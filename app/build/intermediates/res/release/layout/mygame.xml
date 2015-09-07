@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:baselineAligned="true">
+
+    <Button android:id="@+id/close"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:text="Exit"
+    android:onClick="onClick" />
+    
+         <ImageView
+                android:id="@+id/ImageView3_Left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+
+
+                android:layout_gravity="center_vertical|center_horizontal"
+                > </ImageView>
+                
+               
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Digital%20Jalebi%20-%20uno/Desktop/AndroidImageSlider/app/src/main/res/layout/mygame.xml -->

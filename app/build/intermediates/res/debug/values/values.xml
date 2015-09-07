@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Digital%20Jalebi%20-%20uno/Desktop/AndroidImageSlider/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="logo_color">#FFFF0F</color>
+    <color name="version_bkgrd">#1a1a48</color>
+    <color name="version_color">#f0f0f0</color>
+    <!-- From: file:/C:/Users/Digital%20Jalebi%20-%20uno/Desktop/AndroidImageSlider/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="logo_size">24pt</dimen>
+    <dimen name="version_size">5pt</dimen>
+    <dimen name="version_spacing">3pt</dimen>
+    <!-- From: file:/C:/Users/Digital%20Jalebi%20-%20uno/Desktop/AndroidImageSlider/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_logo_bottom">DONE THAT!</string>
+    <string name="app_logo_top">Image Slider</string>
+    <string name="app_name"/>
+    <string name="app_version_info">Version 1.0.0\nCopyright © 2011 techipost.com. All Rights Reserved.
+    </string>
+    <string name="game">Game Screen</string>
+    <string name="help">Help Screen</string>
+    <string name="menu">Main Menu Screen</string>
+    <string name="scores">Scores Screen</string>
+    <string name="settings">Settings Screen</string>
+    <string name="splash">Splash Screen</string>
+</resources>
